@@ -1,4 +1,6 @@
 # [Confitura 2015](http://tech.viacom.com/warsawsdc/confitura2015/)
+## Build
+``` ./gradlew clean build ```
 ## Duplicates
 
 You have *very big* list of elements. Please provide best solution to detect and remove duplicated elements.
